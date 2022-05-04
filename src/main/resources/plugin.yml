@@ -1,0 +1,4 @@
+name: Useful2Cmds
+version: '${version}'
+main: useful1cmds.useful1cmds.Useful2Cmds
+api-version: 1.18
